@@ -1,0 +1,20 @@
+{
+  "name": "MyBit-npm.template",
+  "version": "0.0.0",
+  "description": "📑 A template for MyBit repositories that build pull requests with CircleCI, deploy w/Travis and push to NPM + Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyBitFoundation/MyBit-npm.template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyBitFoundation/MyBit-npm.template/issues"
+  },
+  "homepage": "https://github.com/MyBitFoundation/MyBit-npm.template#readme"
+}
